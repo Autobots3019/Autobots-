@@ -1,0 +1,43 @@
+﻿@model Sprint0.Models.Catalogue
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Catalogue</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.catalogueName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.catalogueName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.catalogueDescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.catalogueDescription)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Image)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Image)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.catalogueId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
+

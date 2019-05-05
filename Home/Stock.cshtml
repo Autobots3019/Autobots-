@@ -1,0 +1,269 @@
+﻿@{
+    ViewBag.Title = "Dashboard";
+}
+
+           <!-- small box -->
+<div id="dashboard" class="row">
+    <div class="col-lg-3 col-md-6">
+        <div class="panel panel-primary">
+            <div class="panel-heading">
+                <div class="row">
+                    <div class="col-xs-3">
+                        <i class="fa fa-shopping-basket fa-5x"></i>
+                    </div>
+                    <div class="col-xs-9 text-right">
+                        <div class="huge"></div>
+                        <div>View Stock</div>
+                    </div>
+                </div>
+            </div>
+            <a href="/InventoryProducts/Index">
+                <div class="panel-footer">
+                    <span class="pull-left">View Details</span>
+                    <span class="pull-right"><i class="fa fa-arrow-circle-right"></i></span>
+                    <div class="clearfix"></div>
+                </div>
+            </a>
+        </div>
+    </div>
+
+
+    <div class="col-lg-3 col-md-6">
+        <div class="panel panel-primary">
+            <div class="panel-heading">
+                <div class="row">
+                    <div class="col-xs-3">
+                        <i class="fa fa-shopping-basket fa-5x"></i>
+                    </div>
+                    <div class="col-xs-9 text-right">
+                        <div class="huge"></div>
+                        <div>Low Stock</div>
+                    </div>
+                </div>
+            </div>
+            <a href="/InventoryProducts/LowStock">
+                <div class="panel-footer">
+                    <span class="pull-left">View Details</span>
+                    <span class="pull-right"><i class="fa fa-arrow-circle-right"></i></span>
+                    <div class="clearfix"></div>
+                </div>
+            </a>
+        </div>
+    </div>
+
+
+    <div class="col-lg-3 col-md-6">
+        <div class="panel panel-primary">
+            <div class="panel-heading">
+                <div class="row">
+                    <div class="col-xs-3">
+                        <i class="fa fa-users fa-5x"></i>
+                    </div>
+                    <div class="col-xs-9 text-right">
+                        <div class="huge"></div>
+                        <div>Suppliers</div>
+                    </div>
+                </div>
+            </div>
+            <a href="/Suppliers/Index">
+                <div class="panel-footer">
+                    <span class="pull-left">View Details</span>
+                    <span class="pull-right"><i class="fa fa-arrow-circle-right"></i></span>
+                    <div class="clearfix"></div>
+                </div>
+            </a>
+        </div>
+    </div>
+
+
+
+    <div class="col-lg-3 col-md-6">
+        <div class="panel panel-primary">
+            <div class="panel-heading">
+                <div class="row">
+                    <div class="col-xs-3">
+                        <i class="fa fa-shopping-bag fa-5x"></i>
+                    </div>
+                    <div class="col-xs-9 text-right">
+                        <div class="huge"></div>
+                        <div>View Purchased Orders</div>
+                    </div>
+                </div>
+            </div>
+            <a href="/porders/Index">
+                <div class="panel-footer">
+                    <span class="pull-left">View Details</span>
+                    <span class="pull-right"><i class="fa fa-arrow-circle-right"></i></span>
+                    <div class="clearfix"></div>
+                </div>
+            </a>
+        </div>
+    </div>
+
+
+
+
+    <div class="col-lg-3 col-md-6">
+        <div class="panel panel-primary">
+            <div class="panel-heading">
+                <div class="row">
+                    <div class="col-xs-3">
+                        <i class="fa fa-shopping-cart fa-5x"></i>
+                    </div>
+                    <div class="col-xs-9 text-right">
+                        <div class="huge"></div>
+                        <div>Create Purchase Order</div>
+                    </div>
+                </div>
+            </div>
+            <a href="/Pur/Index">
+                <div class="panel-footer">
+                    <span class="pull-left">View Details</span>
+                    <span class="pull-right"><i class="fa fa-arrow-circle-right"></i></span>
+                    <div class="clearfix"></div>
+                </div>
+            </a>
+        </div>
+    </div>
+
+
+    <div class="col-lg-3 col-md-6">
+        <div class="panel panel-primary">
+            <div class="panel-heading">
+                <div class="row">
+                    <div class="col-xs-3">
+                        <i class="fa fa-info-circle fa-5x"></i>
+                    </div>
+                    <div class="col-xs-9 text-right">
+                        <div class="huge"></div>
+                        <div>Purchase Detail</div>
+                    </div>
+                </div>
+            </div>
+            <a href="/porders/AllDetails">
+                <div class="panel-footer">
+                    <span class="pull-left">View Details</span>
+                    <span class="pull-right"><i class="fa fa-arrow-circle-right"></i></span>
+                    <div class="clearfix"></div>
+                </div>
+            </a>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+</div>
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                @*</div>
+                <div class="col-lg-3 col-xs-6; text-center">
+                    @{ IEnumerable<Sprint0.Models.InventoryProduct> low = (IEnumerable<Sprint0.Models.InventoryProduct>)ViewBag.lowstock;
+                        <!-- small box -->
+                        <div class="small-box bg-aqua">
+                            <div class="inner">
+                                <div class="icon">
+                                    <i class="glyphicon glyphicon-circle-arrow-down" style="font-size:40px; color:white;"></i>
+                                </div>
+
+                                <p>@Html.ActionLink("Low Stock", "LowStock", "InventoryProducts", null, new { @style = "color:black;" })</p>
+                            </div>
+
+                            <a href="#" class="small-box-footer">More info <i class="glyphicon glyphicon-chevron-down"></i></a>
+                        </div>
+                    }
+                </div>
+                <div class="col-lg-3 col-xs-6; text-center">
+                    @{ IEnumerable<Sprint0.Models.Supplier> suppliers = (IEnumerable<Sprint0.Models.Supplier>)ViewBag.supliers;
+                        <!-- small box -->
+                        <div class="small-box bg-green">
+                            <div class="inner">
+                                <div class="icon">
+                                    <i class="glyphicon glyphicon-user" style="font-size:40px; color:white;"></i>
+                                </div>
+
+                                <p>@Html.ActionLink("Suppliers", "Index", "Suppliers", null, new { @style = "color:black;" })</p>
+                            </div>
+
+                        </div>
+                    }
+                </div>
+                <div class="col-lg-3 col-xs-6; text-center">
+                    @{ IEnumerable<Sprint0.Models.POrder> prders = (IEnumerable<Sprint0.Models.POrder>)ViewBag.purchase;
+                        <!-- small box -->
+                        <div class="small-box bg-yellow">
+                            <div class="inner">
+                                <div class="icon">
+                                    <i class="glyphicon glyphicon-check" style="font-size:40px; color:white;"></i>
+                                </div>
+
+                                <p>@Html.ActionLink("View Purchase Orders", "Index", "POrders", null, new { @style = "color:black;" })</p>
+                            </div>
+
+                        </div>
+                    }
+                </div>
+                </dv>
+                <dv>
+
+
+
+                    <div class="col-lg-3 col-xs-6; text-center">
+
+                        <!-- small box -->
+                        <div class="small-box bg-red">
+                            <div class="inner">
+                                <div class="icon">
+                                    <i class="glyphicon glyphicon-folder-open" style="font-size:40px; color:white;"></i>
+                                </div>
+                                <p>@Html.ActionLink("Create Purchase Order", "Index", "Pur", null, new { @style = "color:black;" })</p>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-xs-6; text-center">
+                        <!-- small box -->
+                        <div class="small-box bg-red">
+                            <div class="inner">
+                                <div class="icon">
+                                    <i class="glyphicon glyphicon-scissors" style="font-size:40px; color:white;"></i>
+                                </div>
+
+
+                            </div>
+
+                        </div>
+                    </div>
+
+
+                </dv>
+                </section>*@

@@ -1,0 +1,57 @@
+﻿@{
+    ViewBag.Title = "Dashboard";
+}
+
+@*<h2>Admin Dashboard</h2>*@
+
+<section class="content">
+    <dv class="">
+        <div class="col-lg-3 col-xs-6">
+            @{ IEnumerable<Sprint0.Models.InventoryProduct> Products = (IEnumerable<Sprint0.Models.InventoryProduct>)ViewBag.Products;
+                <!-- small box -->
+                <div class="small-box bg-aqua">
+                    <div class="inner">
+                        @*<h3>@Orders.Count()</h3>*@
+                        <p>@Html.ActionLink("Roles", "Index", "RolesAdmin")</p>
+                    </div>
+                    <div class="icon">
+                        <i class="glyphicon glyphicon-list" style="font-size:50px;color:white;"></i>
+                        <style>
+                            body {
+                                background-image: url(../../Pics/20190425_105826.jpg);
+                                background-position: center;
+                                background-repeat: no-repeat;
+                                background-size: cover;
+                            }
+
+                            p {
+                                font-size: 30px;
+                                background-color: white;
+                                border-radius: 15px;
+                            }
+                        </style>
+                    </div>
+                    @*<a href="#" class="small-box-footer">More info <i class="glyphicon glyphicon-chevron-down"></i></a>*@
+                </div>
+            }
+        </div>
+        <div class="col-lg-3 col-xs-6">
+            @{ IEnumerable<Sprint0.Models.Order> Orders = (IEnumerable<Sprint0.Models.Order>)ViewBag.Orders;
+                <!-- small box -->
+                <div class="small-box bg-aqua">
+                    <div class="inner">
+                        @*<h3>@Orders.Count()</h3>*@
+                        <p>@Html.ActionLink("Users", "Index", "UsersAdmin")</p>
+                    </div>
+                    <div class="icon">
+                        <i class="glyphicon glyphicon-plus-sign" style="font-size:50px;color:white;"></i>
+                    </div>
+                    @*<a href="#" class="small-box-footer">More info <i class="glyphicon glyphicon-chevron-down"></i></a>*@
+                </div>
+            }
+        </div>
+
+    </dv>
+
+</section>
+

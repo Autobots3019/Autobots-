@@ -1,0 +1,69 @@
+﻿@{
+    ViewBag.Title = "Dashboard";
+}
+
+<div style="width:100%; height:40px; background-color:ghostwhite;">
+    <h1 class="text-center">ADMIN DASHBOARD</h1>
+</div>
+
+
+    <div class="">
+
+
+            @{ IEnumerable<Sprint0.Models.InventoryProduct> Products = (IEnumerable<Sprint0.Models.InventoryProduct>)ViewBag.Products;
+                <!-- small box -->
+            
+        <div id="dashboard" class="">
+            <div class="col-lg-3 col-md-6">
+                <div class="panel panel-primary">
+                    <div class="panel-heading">
+                        <div class="row">
+                            <div class="col-xs-3">
+                                <i class="fa fa-shopping-basket fa-5x"></i>
+                            </div>
+                            <div class="col-xs-9 text-right">
+                                <div class="huge"></div>
+                                <div>Manage Stock</div>
+                            </div>
+                        </div>
+                    </div>
+                    <a href="/home/stock">
+                        <div class="panel-footer">
+                            <span class="pull-left">View Details</span>
+                            <span class="pull-right"><i class="fa fa-arrow-circle-right"></i></span>
+                            <div class="clearfix"></div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+                <div id="dashboard" class="">
+                    <div class="col-lg-3 col-md-6">
+                        <div class="panel panel-primary">
+                            <div class="panel-heading">
+                                <div class="row">
+                                    <div class="col-xs-3">
+                                        <i class="fa fa-user fa-5x"></i>
+                                    </div>
+                                    <div class="col-xs-9 text-right">
+                                        <div class="huge"></div>
+                                        <div>Manage Users</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="/admin/index">
+                                <div class="panel-footer">
+                                    <span class="pull-left">View Details</span>
+                                    <span class="pull-right"><i class="fa fa-arrow-circle-right"></i></span>
+                                    <div class="clearfix"></div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+                </div>
+
+        </div>
+     }
+    </div>
+           

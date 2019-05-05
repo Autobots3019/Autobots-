@@ -1,0 +1,113 @@
+﻿@model IdentitySample.Models.IndexViewModel
+@{
+    ViewBag.Title = "Manage your account";
+}
+
+<p class="text-success">@ViewBag.StatusMessage</p>
+<!-- Content Header (Page header) -->
+<section class="content-header">
+    <h1>
+        User Profile
+    </h1>
+</section>
+<!-- Main content -->
+<section class="content">
+    <div class="row">
+        <div class="col-md-3">
+            <!-- Profile Image -->
+            <div class="box box-primary">
+                <div class="box-body box-profile">
+                    @*<span class="glyphicon glyphicon-user"></span>*@
+                    <h3 class="profile-username text-center">@ViewBag.name</h3>
+                    <ul class="list-group list-group-unbordered">
+                        <li class="list-group-item">
+                            @*<a href="~/Views/Orders/Index.cshtml">Orders</a>*@
+                            @Html.ActionLink("Orders", "MyOrders", "Orders")<span class="badge pull-right">@ViewBag.orders</span>
+                        </li>
+                        <li class="list-group-item">
+                            <b>Favorites</b> <a class="pull-right">543</a>
+                        </li>
+                        <li class="list-group-item">
+                            <b>Extenal Logins</b> <a class="pull-right"><span class="badge pull-right">@Model.Logins.Count</span></a>
+                        </li>
+                    </ul>
+                    @Html.ActionLink("Edit Account", "ChangePassword", null, new { @class = "btn btn-primary btn-block" })
+                </div>
+                <!-- /.box-body -->
+            </div>
+            <!-- /.box -->
+        </div>
+        <!-- /.col -->
+        <div class="col-md-9">
+            <div style="background-color:#dbdbdb"><h2 class="text-center">@ViewBag.Title.</h2></div>
+            <p>
+                @if (Model.HasPassword)
+                {
+                    @*@Html.ActionLink("Change your password", "ChangePassword")*@
+                }
+                else
+                {
+                    @Html.ActionLink("Pick a password", "SetPassword")
+                }
+            </p>
+            <p>
+                Phone Number: @(Model.PhoneNumber ?? "None") [
+                @if (Model.PhoneNumber != null)
+                {
+                    @Html.ActionLink("Change", "AddPhoneNumber")
+                    @: &nbsp;|&nbsp;
+                    @Html.ActionLink("Remove", "RemovePhoneNumber")
+                }
+                else
+                {
+                    @Html.ActionLink("Add", "AddPhoneNumber")
+                }
+                ]
+            </p>
+            <p>
+                External Logins: @Model.Logins.Count
+                @Html.ActionLink("[Manage]", "ManageLogins")
+            </p>
+            @if (Model.TwoFactor)
+            {
+                <form method="post" action="/Manage/DisableTFA">
+                    <p>
+                        Two factor is currently enabled:
+                        <input type="submit" value="Disable" class="btn btn-default" />
+                    </p>
+                </form>
+            }
+            else
+            {
+                <form method="post" action="/Manage/EnableTFA">
+                    <p>
+                        Two factor is currently disabled:
+                        <input type="submit" value="Enable" class="btn btn-default" />
+                    </p>
+                </form>
+            }
+            @if (Model.BrowserRemembered)
+            {
+                <form method="post" action="/Manage/ForgetBrowser">
+                    <p>
+                        Browser is curently remembered for two factor:
+                        <input type="submit" value="Forget Browser" class="btn btn-default" />
+                    </p>
+                </form>
+            }
+            else
+            {
+                <form method="post" action="/Manage/RememberBrowser">
+                    <p>
+                        Browser is curently not remembered for two factor:
+                        <input type="submit" value="Remember Browser" class="btn btn-default" />
+                    </p>
+                </form>
+            }
+            <!-- /.nav-tabs-custom -->
+        </div>
+        <!-- /.col -->
+    </div>
+    <!-- /.row -->
+</section>
+

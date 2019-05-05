@@ -1,0 +1,69 @@
+﻿@model PagedList.IPagedList<Sprint0.Models.ExpandedUserDTO>
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+@{
+
+    ViewBag.Title = "Manage";
+}
+<br />
+    <h2>Manage</h2>
+    <p>
+        @Html.ActionLink("Create New User", "Create", null, new { @class = "btn btn-success" })
+        @Html.ActionLink("View All Roles", "ViewAllRoles", null, new { @class = "btn btn-primary" })
+        @Html.ActionLink("Home Page", "../", "Home", null, new { @class = "btn btn-warning" })
+    </p>
+    <br />
+    @using (Html.BeginForm("Index", "Admin", FormMethod.Get))
+    {
+
+        <div class="form-group">
+            Search:&nbsp; @Html.TextBox("searchStringUserNameOrEmail", ViewBag.CurrentFilter as string)
+
+            <input type="submit" value="Search" />
+        </div>
+    }
+
+<br />
+
+<table class="table">
+    <tr>
+        <th>
+            Email
+        </th>
+
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+         
+            <td>
+                @Html.ActionLink("Edit", "EditUser", new { UserName = item.UserName }) |
+                @if ((item.UserName.ToLower() != this.User.Identity.Name.ToLower()))
+                {
+                    @Html.ActionLink("Delete", "DeleteUser", new { UserName = item.UserName },
+                    new { onclick = "return confirm('Are you sure you wish to delete this user?');" })
+                }
+            </td>
+        </tr>
+    }
+
+
+</table>
+<br />
+Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+@Html.PagedListPager(Model,
+    page => Url.Action("Index",
+    new
+    {
+        page,
+        searchStringUserNameOrEmail = ViewBag.searchStringUserNameOrEmail,
+        currentFilter = ViewBag.CurrentFilter
+    }))
+<hr />

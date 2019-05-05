@@ -1,0 +1,146 @@
+﻿@model Sprint0.Models.Order
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Order</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.OrderNumber)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.OrderNumber)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CurrentStatus)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CurrentStatus)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.OrderProgress)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.OrderProgress)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.OrderQuantity)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.OrderQuantity)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TotalOrderCost)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TotalOrderCost)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Status)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Status)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Confirmed)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Confirmed)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Paid)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Paid)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Delivered)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Delivered)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Emailed)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Emailed)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.OrderDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.OrderDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DeliveryAddress)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DeliveryAddress)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Id)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Id)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.username)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.username)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Cell)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cell)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AssignedDriver)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AssignedDriver)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.OrderId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

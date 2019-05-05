@@ -1,0 +1,97 @@
+﻿<html>
+@model Sprint0.Models.Category_
+
+@{
+    ViewBag.Title = "Browse";
+}
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>Shop Homepage - Start Bootstrap Template</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/shop-homepage.css" rel="stylesheet">
+</head>
+
+<body>
+    <!-- Page Content -->
+    <div class="container">
+
+        <div class="row">
+            <div class="col-md-9">
+                <div class="row carousel-holder" style="margin-bottom:30px;">
+                    <div class="col-md-12">
+                        <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+                            <ol class="carousel-indicators">
+                                <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                                <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+                                <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+                            </ol>
+                            <div class="carousel-inner">
+                                <div class="item active">
+                                    <img class="slide-image" src="~/Content/Images/Dog ad 1.JFIF" style="width:100%;height:350px">
+                                </div>
+                                <div class="item">
+                                    <img class="slide-image" src="~/Content/Images/Dog ad 2.JFIF" style="width:100%;height:350px">
+                                </div>
+                                <div class="item">
+                                    <img class="slide-image" src="~/Content/Images/Dog ad 3.JFIF" style="width:100%;height:350px">
+                                </div>
+                                <div class="item">
+                                    <img class="slide-image" src="~/Content/Images/DogAd6.jpg" style="width:100%;height:350px">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <ul class="breadcrumb">
+            <li><a href="@Url.Action("Index","Home")">Home</a></li>
+            <li class="active">@Model.categoryName</li>
+        </ul>
+
+        <table>
+            <tr>
+                <td style="padding-right:10px">
+                    <div class="row">
+
+                        @using (Html.BeginForm("Create", "InventoryProducts", FormMethod.Post, new { enctype = "multipart/form-data" }))
+                        {
+                            @Html.AntiForgeryToken()
+                        }
+                        @foreach (var products in Model.InventoryProducts)
+                        {
+
+                            <div class="col-sm-4 col-lg-4 col-md-4" style="width:275px; padding-bottom:20px">
+
+                                <div class="thumbnail">
+                                    @{
+                                        var base64 = Convert.ToBase64String(products.Image);
+                                        var img = string.Format("data:image/jpg;base64,{0}", base64);
+                                    }
+                                    <img src="@img" style="width:150px;height:250px" />
+                                    <div class="caption" style="width:300px">
+                                        <h3>@Html.ActionLink(products.productName, "Details", new { id = products.productId })</h3>
+                                        <h5>@products.brandName</h5><h5>@products.Catalogues.catalogueName</h5>
+                                        <h4>@products.unitPrice.ToString("R0.00")</h4>
+                                    </div>
+                                    @Html.ActionLink("View", "Details", new { id = products.productId }, new { @class = "btn btn-success" })
+                                </div>
+                            </div>
+                        }
+
+                    </div>
+                </td>
+            </tr>
+        </table>
+    </div>
+    <script type="text/javascript" src='//code.jquery.com/jquery-1.10.2.min.js'></script>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.1/js/bootstrap.min.js"></script>
+
+</body>
+</html>

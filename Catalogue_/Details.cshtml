@@ -1,0 +1,26 @@
+﻿@model Sprint0.Models.Catalogue_
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Catalogue_</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.catalogueName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.catalogueName)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.catalogueId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,36 @@
+﻿@model IEnumerable<Sprint0.Models.Category_>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="well">
+    <p>
+        @Html.ActionLink("New Category", "Create", "Category_", null, new { @Class = "btn btn-primary" })
+
+        @Html.ActionLink("<< Create Product", "Create", "InventoryProducts", null, new { @Class = "btn btn-success pull-right" })
+    </p>
+    <table class="table table-hover">
+        <tr style="background-color:#c8c8c8">
+            <th>
+                @Html.DisplayNameFor(model => model.categoryName)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.categoryName)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.categoryId }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.categoryId }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.categoryId })
+                </td>
+            </tr>
+        }
+
+    </table>
+</div>
