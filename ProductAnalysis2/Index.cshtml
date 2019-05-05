@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Sprint0.Models.ProductAnalysis2>
+
+@{
+    ViewBag.Title = "Index";
+}
+<div style="width:100%; height:40px; background-color:#dbdbdb;">
+    <h2 class="text-center">Purchases Report</h2>
+</div>
+<div class="well">
+    <table class="table table-hover">
+        <tr style="background-color:#c8c8c8">
+            <th>
+                @Html.DisplayNameFor(model => model.Product_Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Product_Quantity)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Product_Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Product_Quantity)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.paid }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.paid }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.paid })
+                </td>
+            </tr>
+        }
+
+    </table>
+</div>
+<div>
+
+    <img src="@Url.Action("Chart")" alt="SimpleChart" />
+
+</div>

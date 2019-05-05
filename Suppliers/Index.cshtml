@@ -1,0 +1,61 @@
+﻿@model IEnumerable<Sprint0.Models.Supplier>
+
+@{
+    ViewBag.Title = "Index";
+}
+<br />
+<h2>Suppliers</h2>
+<br />
+<p class="pull-right">
+    @Html.ActionLink("Add Supplier", "Create", "Suppliers", new { @style = "backround-color: darkblue; font-size: 25px;" }, new { @Class = "btn btn-success" })
+</p>
+<div class="">
+    <table class="table table-hover table-striped">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.supplierName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.supplierNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.supplierEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.supplierLocation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.supplytype)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.supplierName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.supplierNumber)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.supplierEmail)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.supplierLocation)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.supplytype)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.supplierid }, new { @class = "btn btn-warning" })
+                    @Html.ActionLink("Details", "Details", new { id = item.supplierid }, new { @class = "btn btn-primary" })
+                    @Html.ActionLink("Delete", "Delete", new { id = item.supplierid }, new { @class = "btn btn-danger" })
+                </td>
+            </tr>
+        }
+
+    </table>
+
+</div>
