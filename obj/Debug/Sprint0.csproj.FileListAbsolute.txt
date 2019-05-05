@@ -1,0 +1,1960 @@
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\ApplicationInsights.config
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Sprint0.dll.config
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Sprint0.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Sprint0.pdb
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\csc.exe
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\csc.exe.config
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\csc.rsp
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\csi.exe
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\csi.exe.config
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\csi.rsp
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\System.AppContext.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\System.Console.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\System.IO.Compression.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\System.Security.Claims.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\System.ValueTuple.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\vbc.exe
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\vbc.exe.config
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\vbc.rsp
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\VBCSCompiler.exe
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Antlr3.Runtime.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\EntityFramework.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\EntityFramework.SqlServer.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AI.Web.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Owin.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Owin.Security.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Newtonsoft.Json.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Owin.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\System.Web.Helpers.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\System.Web.Mvc.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\System.Web.Optimization.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\System.Web.Razor.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\System.Web.WebPages.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\System.Web.WebPages.Razor.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\WebGrease.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\System.Web.Helpers.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\System.Web.Mvc.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\System.Web.Optimization.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\System.Web.Razor.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\System.Web.WebPages.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\System.Web.WebPages.Razor.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Antlr3.Runtime.pdb
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Newtonsoft.Json.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\EntityFramework.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\EntityFramework.SqlServer.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Owin.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Owin.Security.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AI.Web.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\obj\Debug\Sprint0.csproj.CoreCompileInputs.cache
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\obj\Debug\Sprint0.csproj.CopyComplete
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\obj\Debug\Sprint0.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\obj\Debug\Sprint0.pdb
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\BotDetect.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\BotDetect.Web.Mvc.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\CaptchaMvc.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Cors.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Localization.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Razor.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Session.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.CodeAnalysis.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Extensions.Localization.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Extensions.Options.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\System.AppContext.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\System.Buffers.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\System.Collections.Immutable.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\System.ComponentModel.Primitives.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\System.Console.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\System.Data.SQLite.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\System.IO.FileSystem.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\System.Reflection.Metadata.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\System.Text.Encoding.CodePages.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\System.Text.Encodings.Web.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\System.Threading.Thread.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\System.Xml.XmlDocument.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\System.Xml.XPath.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\CaptchaMvc.pdb
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\CaptchaMvc.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Antiforgery.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Cors.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Localization.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.Razor.Host.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Razor.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Session.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.CodeAnalysis.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Extensions.FileProviders.Composite.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Extensions.Globalization.CultureInfoCache.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Extensions.Localization.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Extensions.Options.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Extensions.PlatformAbstractions.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\System.Collections.Immutable.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\System.Data.SQLite.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\System.Data.SQLite.dll.config
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\System.Reflection.Metadata.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\bin\System.Text.Encodings.Web.xml
+C:\Users\Avishka\Desktop\Sprint0\Sprint0\obj\Debug\Sprint0.csprojResolveAssemblyReference.cache
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\ApplicationInsights.config
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Sprint0.dll.config
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Sprint0.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Sprint0.pdb
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\csc.exe
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\csc.exe.config
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\csc.rsp
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\csi.exe
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\csi.exe.config
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\csi.rsp
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\System.AppContext.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\System.Console.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\System.IO.Compression.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\System.IO.Pipes.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\System.Security.Claims.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\System.Threading.Thread.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\System.ValueTuple.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\System.Xml.XPath.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\vbc.exe
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\vbc.exe.config
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\vbc.rsp
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\VBCSCompiler.exe
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Antlr3.Runtime.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\BotDetect.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\BotDetect.Web.Mvc.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\CaptchaMvc.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\EntityFramework.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\EntityFramework.SqlServer.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AI.Web.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.ApplicationInsights.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Cors.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Localization.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Razor.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Session.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.CodeAnalysis.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Extensions.Localization.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Extensions.Options.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Owin.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Owin.Security.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Newtonsoft.Json.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Owin.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\System.AppContext.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\System.Buffers.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\System.Collections.Immutable.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\System.ComponentModel.Primitives.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\System.Console.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\System.Data.SQLite.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\System.Diagnostics.StackTrace.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\System.IO.FileSystem.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\System.Reflection.Metadata.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\System.Text.Encoding.CodePages.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\System.Text.Encodings.Web.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\System.Threading.Thread.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\System.Web.Helpers.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\System.Web.Mvc.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\System.Web.Optimization.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\System.Web.Razor.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\System.Web.WebPages.Deployment.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\System.Web.WebPages.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\System.Web.WebPages.Razor.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\System.Xml.XmlDocument.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\System.Xml.XPath.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\System.Xml.XPath.XDocument.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\WebGrease.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\CaptchaMvc.pdb
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\CaptchaMvc.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\EntityFramework.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\EntityFramework.SqlServer.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Antiforgery.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Cors.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Localization.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.Razor.Host.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Razor.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.Session.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.CodeAnalysis.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Extensions.FileProviders.Composite.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Extensions.Globalization.CultureInfoCache.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Extensions.Localization.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Extensions.Options.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Extensions.PlatformAbstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Newtonsoft.Json.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\System.Collections.Immutable.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\System.Data.SQLite.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\System.Data.SQLite.dll.config
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\System.Reflection.Metadata.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\System.Text.Encodings.Web.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\System.Web.Helpers.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\System.Web.Mvc.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\System.Web.Razor.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\System.Web.WebPages.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\System.Web.WebPages.Deployment.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\System.Web.WebPages.Razor.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\System.Web.Optimization.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Antlr3.Runtime.pdb
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Owin.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Owin.Security.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.ApplicationInsights.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\Microsoft.AI.Web.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\obj\Debug\Sprint0.csproj.CoreCompileInputs.cache
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\obj\Debug\Sprint0.csproj.CopyComplete
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\obj\Debug\Sprint0.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\obj\Debug\Sprint0.pdb
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\DHTMLX.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\DHTMLX.pdb
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\DHTMLX.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\SendGrid.SmtpApi.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\SendGrid.SmtpApi.pdb
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\SendGrid.SmtpApi.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0\Sprint0\bin\SendGrid.SmtpApi.dll.config
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\ApplicationInsights.config
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Sprint0.dll.config
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Sprint0.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Sprint0.pdb
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\csc.exe
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\csc.exe.config
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\csc.rsp
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\csi.exe
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\csi.exe.config
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\csi.rsp
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\System.AppContext.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\System.Console.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\System.IO.Compression.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\System.IO.Pipes.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\System.Security.Claims.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\System.Threading.Thread.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\System.ValueTuple.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\System.Xml.XPath.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\vbc.exe
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\vbc.exe.config
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\vbc.rsp
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\VBCSCompiler.exe
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Antlr3.Runtime.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\BotDetect.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\BotDetect.Web.Mvc.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\CaptchaMvc.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\DHTMLX.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\EntityFramework.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\EntityFramework.SqlServer.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AI.Web.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.ApplicationInsights.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Cors.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Localization.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Mvc.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Razor.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Session.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.CodeAnalysis.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Extensions.Localization.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Extensions.Options.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Owin.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Owin.Security.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Newtonsoft.Json.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Owin.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\SendGrid.SmtpApi.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\System.AppContext.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\System.Buffers.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\System.Collections.Immutable.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\System.ComponentModel.Primitives.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\System.Console.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\System.Data.SQLite.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\System.Diagnostics.StackTrace.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\System.IO.FileSystem.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\System.Reflection.Metadata.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\System.Text.Encoding.CodePages.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\System.Text.Encodings.Web.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\System.Threading.Thread.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\System.Web.Helpers.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\System.Web.Mvc.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\System.Web.Optimization.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\System.Web.Razor.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\System.Web.WebPages.Deployment.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\System.Web.WebPages.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\System.Web.WebPages.Razor.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\System.Xml.XmlDocument.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\System.Xml.XPath.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\System.Xml.XPath.XDocument.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\WebGrease.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\CaptchaMvc.pdb
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\CaptchaMvc.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\DHTMLX.pdb
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\DHTMLX.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\EntityFramework.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\EntityFramework.SqlServer.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Antiforgery.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Cors.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Localization.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Mvc.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Mvc.Razor.Host.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Razor.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.Session.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.CodeAnalysis.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Extensions.FileProviders.Composite.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Extensions.Globalization.CultureInfoCache.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Extensions.Localization.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Extensions.Options.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Extensions.PlatformAbstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Newtonsoft.Json.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\SendGrid.SmtpApi.pdb
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\SendGrid.SmtpApi.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\SendGrid.SmtpApi.dll.config
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\System.Collections.Immutable.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\System.Data.SQLite.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\System.Data.SQLite.dll.config
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\System.Reflection.Metadata.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\System.Text.Encodings.Web.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\System.Web.Helpers.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\System.Web.Mvc.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\System.Web.Razor.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\System.Web.WebPages.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\System.Web.WebPages.Deployment.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\System.Web.WebPages.Razor.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\System.Web.Optimization.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Antlr3.Runtime.pdb
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Owin.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Owin.Security.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.ApplicationInsights.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\Microsoft.AI.Web.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\obj\Debug\Sprint0.csproj.CoreCompileInputs.cache
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\obj\Debug\Sprint0.csproj.CopyComplete
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\obj\Debug\Sprint0.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\obj\Debug\Sprint0.pdb
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\obj\Debug\Sprint0.Migrations.Initial.resources
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\obj\Debug\Sprint0.csproj.GenerateResource.cache
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.1\Sprint0\obj\Debug\Sprint0.csprojAssemblyReference.cache
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\ApplicationInsights.config
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Sprint0.dll.config
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Sprint0.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Sprint0.pdb
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\csc.exe
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\csc.exe.config
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\csc.rsp
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\csi.exe
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\csi.exe.config
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\csi.rsp
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\System.AppContext.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\System.Console.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\System.IO.Compression.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\System.IO.Pipes.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\System.Security.Claims.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\System.Threading.Thread.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\System.Xml.XPath.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\vbc.exe
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\vbc.exe.config
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\vbc.rsp
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\VBCSCompiler.exe
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Antlr3.Runtime.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\BotDetect.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\BotDetect.Web.Mvc.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\CaptchaMvc.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\DHTMLX.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\EntityFramework.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\EntityFramework.SqlServer.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AI.Web.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.ApplicationInsights.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Cors.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Localization.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Mvc.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Razor.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Session.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.CodeAnalysis.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Extensions.Localization.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Extensions.Options.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Owin.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Owin.Security.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Newtonsoft.Json.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Owin.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\SendGrid.SmtpApi.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\System.AppContext.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\System.Buffers.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\System.Collections.Immutable.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\System.ComponentModel.Primitives.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\System.Console.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\System.Data.SQLite.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\System.Diagnostics.StackTrace.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\System.IO.FileSystem.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\System.Reflection.Metadata.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\System.Text.Encoding.CodePages.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\System.Text.Encodings.Web.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\System.Threading.Thread.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\System.Web.Helpers.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\System.Web.Mvc.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\System.Web.Optimization.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\System.Web.Razor.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\System.Web.WebPages.Deployment.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\System.Web.WebPages.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\System.Web.WebPages.Razor.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\System.Xml.XmlDocument.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\System.Xml.XPath.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\System.Xml.XPath.XDocument.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\WebGrease.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\CaptchaMvc.pdb
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\CaptchaMvc.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\DHTMLX.pdb
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\DHTMLX.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\EntityFramework.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\EntityFramework.SqlServer.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Antiforgery.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Cors.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Localization.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Mvc.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Mvc.Razor.Host.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Razor.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.Session.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.CodeAnalysis.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Extensions.FileProviders.Composite.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Extensions.Globalization.CultureInfoCache.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Extensions.Localization.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Extensions.Options.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Extensions.PlatformAbstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Newtonsoft.Json.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\SendGrid.SmtpApi.pdb
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\SendGrid.SmtpApi.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\SendGrid.SmtpApi.dll.config
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\System.Collections.Immutable.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\System.Data.SQLite.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\System.Data.SQLite.dll.config
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\System.Reflection.Metadata.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\System.Text.Encodings.Web.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\System.Web.Helpers.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\System.Web.Mvc.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\System.Web.Razor.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\System.Web.WebPages.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\System.Web.WebPages.Deployment.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\System.Web.WebPages.Razor.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\System.Web.Optimization.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Antlr3.Runtime.pdb
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Owin.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Owin.Security.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.ApplicationInsights.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\Microsoft.AI.Web.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\obj\Debug\Sprint0.csproj.CoreCompileInputs.cache
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\obj\Debug\Sprint0.csproj.CopyComplete
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\obj\Debug\Sprint0.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\obj\Debug\Sprint0.pdb
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\SendGrid.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\System.Net.Http.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\SendGrid.pdb
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\SendGrid.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\System.ValueTuple.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\obj\Debug\Sprint0.csprojAssemblyReference.cache
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\obj\Debug\Sprint0.Migrations.Initial.resources
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.2\Sprint0\obj\Debug\Sprint0.csproj.GenerateResource.cache
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\ApplicationInsights.config
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Sprint0.dll.config
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Sprint0.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Sprint0.pdb
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\csc.exe
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\csc.exe.config
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\csc.rsp
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\csi.exe
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\csi.exe.config
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\csi.rsp
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\System.AppContext.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\System.Console.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\System.IO.Compression.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\System.IO.Pipes.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\System.Security.Claims.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\System.Threading.Thread.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\System.ValueTuple.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\System.Xml.XPath.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\vbc.exe
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\vbc.exe.config
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\vbc.rsp
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\VBCSCompiler.exe
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Antlr3.Runtime.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\BotDetect.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\BotDetect.Web.Mvc.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\CaptchaMvc.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\DHTMLX.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\EntityFramework.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\EntityFramework.SqlServer.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AI.Web.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.ApplicationInsights.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Cors.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Localization.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Mvc.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Razor.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Session.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.CodeAnalysis.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Extensions.Localization.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Extensions.Options.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Owin.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Owin.Security.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Newtonsoft.Json.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Owin.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\SendGrid.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\SendGrid.SmtpApi.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\System.AppContext.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\System.Buffers.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\System.Collections.Immutable.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\System.ComponentModel.Primitives.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\System.Console.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\System.Data.SQLite.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\System.Diagnostics.StackTrace.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\System.IO.FileSystem.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\System.Net.Http.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\System.Reflection.Metadata.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\System.Text.Encoding.CodePages.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\System.Text.Encodings.Web.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\System.Threading.Thread.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\System.Web.Helpers.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\System.Web.Mvc.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\System.Web.Optimization.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\System.Web.Razor.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\System.Web.WebPages.Deployment.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\System.Web.WebPages.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\System.Web.WebPages.Razor.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\System.Xml.XmlDocument.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\System.Xml.XPath.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\System.Xml.XPath.XDocument.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\WebGrease.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\CaptchaMvc.pdb
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\CaptchaMvc.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\DHTMLX.pdb
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\DHTMLX.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\EntityFramework.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\EntityFramework.SqlServer.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Antiforgery.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Cors.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Localization.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Mvc.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Mvc.Razor.Host.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Razor.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.Session.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.CodeAnalysis.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Extensions.FileProviders.Composite.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Extensions.Globalization.CultureInfoCache.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Extensions.Localization.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Extensions.Options.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Extensions.PlatformAbstractions.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Newtonsoft.Json.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\SendGrid.pdb
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\SendGrid.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\SendGrid.SmtpApi.pdb
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\SendGrid.SmtpApi.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\SendGrid.SmtpApi.dll.config
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\System.Collections.Immutable.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\System.Data.SQLite.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\System.Data.SQLite.dll.config
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\System.Reflection.Metadata.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\System.Text.Encodings.Web.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\System.Web.Helpers.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\System.Web.Mvc.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\System.Web.Razor.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\System.Web.WebPages.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\System.Web.WebPages.Deployment.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\System.Web.WebPages.Razor.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\System.Web.Optimization.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Antlr3.Runtime.pdb
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Owin.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Owin.Security.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.ApplicationInsights.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\bin\Microsoft.AI.Web.xml
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\obj\Debug\Sprint0.csproj.CoreCompileInputs.cache
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\obj\Debug\Sprint0.csproj.CopyComplete
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\obj\Debug\Sprint0.dll
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\obj\Debug\Sprint0.pdb
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\obj\Debug\Sprint0.Migrations.Initial.resources
+C:\Users\warre\Desktop\Clio App Dev\Sprint0.3\Sprint0\obj\Debug\Sprint0.csproj.GenerateResource.cache
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\ApplicationInsights.config
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Sprint0.dll.config
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Sprint0.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Sprint0.pdb
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\csc.exe
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\csc.exe.config
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\csc.rsp
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\csi.exe
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\csi.exe.config
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\csi.rsp
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\System.AppContext.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\System.Console.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\System.IO.Compression.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\System.IO.Pipes.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\System.Security.Claims.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\System.Threading.Thread.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\System.ValueTuple.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\vbc.exe
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\vbc.exe.config
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\vbc.rsp
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\VBCSCompiler.exe
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Antlr3.Runtime.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\BotDetect.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\BotDetect.Web.Mvc.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\CaptchaMvc.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\DHTMLX.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\EntityFramework.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\EntityFramework.SqlServer.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AI.Web.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.ApplicationInsights.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Cors.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Localization.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Razor.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Session.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.CodeAnalysis.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Extensions.Localization.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Extensions.Options.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Owin.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Owin.Security.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Newtonsoft.Json.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Owin.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\SendGrid.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\SendGrid.SmtpApi.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\System.AppContext.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\System.Buffers.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\System.Collections.Immutable.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\System.ComponentModel.Primitives.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\System.Console.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\System.Data.SQLite.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\System.Diagnostics.StackTrace.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\System.IO.FileSystem.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\System.Net.Http.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\System.Reflection.Metadata.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\System.Text.Encoding.CodePages.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\System.Text.Encodings.Web.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\System.Threading.Thread.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\System.Web.Helpers.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\System.Web.Mvc.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\System.Web.Optimization.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\System.Web.Razor.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\System.Web.WebPages.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\System.Web.WebPages.Razor.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\System.Xml.XmlDocument.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\System.Xml.XPath.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\System.Xml.XPath.XDocument.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\WebGrease.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\CaptchaMvc.pdb
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\CaptchaMvc.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\DHTMLX.pdb
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\DHTMLX.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\EntityFramework.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\EntityFramework.SqlServer.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Antiforgery.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Cors.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Localization.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.Razor.Host.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Razor.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Session.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.CodeAnalysis.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Extensions.FileProviders.Composite.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Extensions.Globalization.CultureInfoCache.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Extensions.Localization.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Extensions.Options.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Extensions.PlatformAbstractions.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Newtonsoft.Json.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\SendGrid.pdb
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\SendGrid.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\SendGrid.SmtpApi.pdb
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\SendGrid.SmtpApi.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\SendGrid.SmtpApi.dll.config
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\System.Collections.Immutable.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\System.Data.SQLite.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\System.Data.SQLite.dll.config
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\System.Reflection.Metadata.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\System.Text.Encodings.Web.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\System.Web.Helpers.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\System.Web.Mvc.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\System.Web.Razor.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\System.Web.WebPages.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\System.Web.WebPages.Razor.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\System.Web.Optimization.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Antlr3.Runtime.pdb
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Owin.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Owin.Security.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.ApplicationInsights.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\bin\Microsoft.AI.Web.xml
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\obj\Debug\Sprint0.csprojAssemblyReference.cache
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\obj\Debug\Sprint0.csproj.CoreCompileInputs.cache
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\obj\Debug\Sprint0.csproj.CopyComplete
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\obj\Debug\Sprint0.dll
+C:\Users\NOZIPHO\Desktop\Sprint0.4\Sprint0\obj\Debug\Sprint0.pdb
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\ApplicationInsights.config
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Sprint0.dll.config
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Sprint0.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Sprint0.pdb
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\csc.exe
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\csc.exe.config
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\csc.rsp
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\csi.exe
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\csi.exe.config
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\csi.rsp
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\System.AppContext.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\System.Console.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\System.IO.Compression.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\System.IO.Pipes.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\System.Security.Claims.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\System.Threading.Thread.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\System.Xml.XPath.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\vbc.exe
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\vbc.exe.config
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\vbc.rsp
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\VBCSCompiler.exe
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Antlr3.Runtime.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\BotDetect.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\BotDetect.Web.Mvc.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\CaptchaMvc.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\DHTMLX.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\EntityFramework.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\EntityFramework.SqlServer.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AI.Web.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.ApplicationInsights.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Cors.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Localization.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Razor.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Session.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.CodeAnalysis.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Extensions.Localization.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Extensions.Options.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Owin.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Owin.Security.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Newtonsoft.Json.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Owin.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\SendGrid.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\SendGrid.SmtpApi.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\System.AppContext.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\System.Buffers.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\System.Collections.Immutable.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\System.ComponentModel.Primitives.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\System.Console.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\System.Data.SQLite.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\System.Diagnostics.StackTrace.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\System.IO.FileSystem.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\System.Net.Http.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\System.Reflection.Metadata.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\System.Text.Encoding.CodePages.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\System.Text.Encodings.Web.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\System.Threading.Thread.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\System.Web.Helpers.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\System.Web.Mvc.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\System.Web.Optimization.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\System.Web.Razor.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\System.Web.WebPages.Deployment.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\System.Web.WebPages.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\System.Web.WebPages.Razor.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\System.Xml.XmlDocument.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\System.Xml.XPath.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\System.Xml.XPath.XDocument.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\WebGrease.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\CaptchaMvc.pdb
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\CaptchaMvc.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\DHTMLX.pdb
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\DHTMLX.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\EntityFramework.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\EntityFramework.SqlServer.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Antiforgery.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Cors.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Localization.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.Razor.Host.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Razor.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.Session.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.CodeAnalysis.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Extensions.FileProviders.Composite.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Extensions.Globalization.CultureInfoCache.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Extensions.Localization.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Extensions.Options.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Extensions.PlatformAbstractions.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Newtonsoft.Json.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\SendGrid.pdb
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\SendGrid.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\SendGrid.SmtpApi.pdb
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\SendGrid.SmtpApi.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\SendGrid.SmtpApi.dll.config
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\System.Collections.Immutable.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\System.Data.SQLite.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\System.Data.SQLite.dll.config
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\System.Reflection.Metadata.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\System.Text.Encodings.Web.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\System.Web.Helpers.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\System.Web.Mvc.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\System.Web.Razor.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\System.Web.WebPages.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\System.Web.WebPages.Deployment.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\System.Web.WebPages.Razor.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\System.Web.Optimization.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Antlr3.Runtime.pdb
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Owin.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Owin.Security.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.ApplicationInsights.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\Microsoft.AI.Web.xml
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\obj\Debug\Sprint0.csproj.CoreCompileInputs.cache
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\obj\Debug\Sprint0.csproj.CopyComplete
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\obj\Debug\Sprint0.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\obj\Debug\Sprint0.pdb
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\obj\Debug\Sprint0.Migrations.Initial.resources
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\obj\Debug\Sprint0.csproj.GenerateResource.cache
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\warre\Desktop\3rd Year Code 2019\Sprint0.4\Sprint0\bin\roslyn\System.ValueTuple.dll
